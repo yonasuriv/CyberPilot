@@ -1,5 +1,5 @@
 # From Zero to God 
-## Full Ethical Hacking Course written by AI
+### Full Ethical Hacking Course written by AI
 
 ![Screenshot 2022-12-20 152007-modified](https://user-images.githubusercontent.com/59540565/208688779-99e16e50-d604-42fa-a50b-7f675c58f8c3.png)
 
