@@ -10,7 +10,7 @@ GPT has been updated several times since it was first released, with the most re
 
 # Temary
 
-## [[0. Before Starting]]
+## 0. Before Starting
 
 ### Effective Note Keeping
 
@@ -25,7 +25,7 @@ Here are some tips for keeping efficient notes:
 	- [Obsidian](https://obsidian.md/)
 	- [Logseq](https://logseq.com/)
 	- [OneNote](https://www.onenote.com/download)
-	- [CherryTree]([https://www.giuspen.com/cherrytree/](https://www.giuspen.com/cherrytree))
+	- [CherryTree](https://www.giuspen.net/cherrytree/#downl))
 
 2. Take clear, concise notes: When taking notes, focus on writing down the most important information and avoiding unnecessary details. Use *abbreviations* and *symbols* to save space, and try to use your own words as much as possible. 
 3. Keep your notes organized: Keep your notes organized by date or topic. This will make it easier to find specific information when you need it.
@@ -147,7 +147,7 @@ Reading the documentation and manuals for a programming language can help you un
 By following these best practices, you can write code that is of high quality, easy to understand and maintain, and efficient. This will help you to produce software that is reliable, robust, and scalable.
 
 
-## [[1. Setting up the Lab]]
+## 1. Setting up the Lab
 
 ### Installing the Virtual Machine
 
@@ -177,7 +177,7 @@ These operating systems are ready-to-go and comes with a bunch of tools that we 
 #### Parrot
 [Download it on the official website](https://www.parrotsec.org/download/)
 
-## [[2. Introduction to Networking]]
+## 2. Introduction to Networking
 
 ### IP Addresses
 
@@ -400,7 +400,7 @@ After the three-way handshake is complete, the devices can begin transmitting da
 The three-way handshake is used by TCP to establish a connection because it ensures that both devices are ready to communicate and have synchronized their sequence numbers. It also allows each device to verify that the other device is alive and reachable.
 
 
-## [[3. Introduction to Linux]]
+## 3. Introduction to Linux
 
 ### Sudo Overview
 
@@ -759,7 +759,7 @@ We are going to use the nmap tool to scan for all the actives port within the ip
 
 
 
-## [[4. Introduction to Python]]
+## 4. Introduction to Python
 
 [View the Full Documentation of Python](https://www.w3schools.com/python)
 
