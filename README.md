@@ -10,7 +10,7 @@ GPT has been updated several times since it was first released, with the most re
 
 # Temary
 
-## 0. Before Starting
+## [0. Before Starting](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/0.%20Before%20Starting.md)
 
 ### Effective Note Keeping
 
@@ -147,7 +147,7 @@ Reading the documentation and manuals for a programming language can help you un
 By following these best practices, you can write code that is of high quality, easy to understand and maintain, and efficient. This will help you to produce software that is reliable, robust, and scalable.
 
 
-## 1. Setting up the Lab
+## [1. Setting up the Lab](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/1.%20Setting%20up%20the%20Lab.md)
 
 ### Installing the Virtual Machine
 
@@ -177,7 +177,7 @@ These operating systems are ready-to-go and comes with a bunch of tools that we 
 #### Parrot
 [Download it on the official website](https://www.parrotsec.org/download/)
 
-## 2. Introduction to Networking
+## [2. Introduction to Networking](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/2.%20Introduction%20to%20Networking.md)
 
 ### IP Addresses
 
@@ -400,8 +400,7 @@ After the three-way handshake is complete, the devices can begin transmitting da
 The three-way handshake is used by TCP to establish a connection because it ensures that both devices are ready to communicate and have synchronized their sequence numbers. It also allows each device to verify that the other device is alive and reachable.
 
 
-## 3. Introduction to Linux
-
+## [3. Introduction to Linux](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/3.%20Introduction%20to%20Linux.md)
 ### Sudo Overview
 
 `sudo` is a Unix-based command that stands for "superuser do." It allows a user to execute commands with the privileges of another user, typically the superuser or root user.
@@ -759,7 +758,7 @@ We are going to use the nmap tool to scan for all the actives port within the ip
 
 
 
-## 4. Introduction to Python
+## [4. Introduction to Python](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/4.%20Introduction%20to%20Python.md)
 
 [View the Full Documentation of Python](https://www.w3schools.com/python)
 
