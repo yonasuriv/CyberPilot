@@ -30,8 +30,6 @@ Currently in Development.
 
 ## Resources
 
-- 
-
 #### Artificial Intelligence Behind
 - [OpenAI](https://openai.com/)
 
