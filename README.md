@@ -28,6 +28,8 @@ GPT has been updated several times since it was first released, with the most re
 
 ## Resources
 
+- 
+
 #### Artificial Intelligence Behind
 - [OpenAI](https://openai.com/)
 
@@ -52,5 +54,10 @@ GPT has been updated several times since it was first released, with the most re
 - [TCM Security Academy](https://academy.tcm-sec.com/)
 
 #### Other Worthy Mentions
-- [Cloudflare](https://www.cloudflare.com/learning/)
 - [Wikipedia](https://www.wikipedia.org/)
+- [Cisco](https://www.cisco.com/)
+- [Cloudflare](https://www.cloudflare.com/learning/)
+
+with ❤️ from [yonasuriv](https://www.yonasuriv.com)
+
+> Work in the Dark to serve the Light.
