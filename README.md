@@ -18,7 +18,16 @@ GPT has been updated several times since it was first released, with the most re
 ### [3. Introduction to Linux](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/3.%20Introduction%20to%20Linux.md)
 ### [4. Introduction to Python](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/4.%20Introduction%20to%20Python.md)
 
+## Contribution
+
+### **Star** & **Fork** the project
+
+#### Feel free to Suggest Changes 
+	- Add/Modify/Remove Information
+	- Grammatical or Punctuation errors)
+
 ## Resources
+
 - [OpenAI](https://openai.com/)
 - [TCM Security](https://tcm-sec.com/)
 - [Parrot Security](https://parrotsec.org/)
