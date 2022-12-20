@@ -2,6 +2,9 @@
 
 ### **This is the first course written using GPT.**
 
+![Screenshot 2022-12-20 152007-modified](https://user-images.githubusercontent.com/59540565/208688779-99e16e50-d604-42fa-a50b-7f675c58f8c3.png)
+
+
 GPT, or Generative Pre-trained Transformer, is a type of large, deep learning language model developed by OpenAI. It is trained to predict the next word in a sequence of words, given the context of the previous words.
 
 GPT is pre-trained on a large dataset and can be fine-tuned for specific tasks such as language translation, summarization, or question answering. It is known for its ability to generate human-like text, making it useful for a wide range of natural language processing tasks.
