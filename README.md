@@ -6,9 +6,7 @@
 
 #### **This is the first course written using GPT.**
 
-GPT, or Generative Pre-trained Transformer, is a type of large, deep learning language model developed by OpenAI. It is trained to predict the next word in a sequence of words, given the context of the previous words.
-
-GPT is pre-trained on a large dataset and can be fine-tuned for specific tasks such as language translation, summarization, or question answering. It is known for its ability to generate human-like text, making it useful for a wide range of natural language processing tasks.
+GPT, or Generative Pre-trained Transformer, is a type of large, deep learning language model developed by OpenAI. It is trained to predict the next word in a sequence of words, given the context of the previous words. It is known for its ability to generate human-like text, making it useful for a wide range of natural language processing tasks.
 
 GPT has been updated several times since it was first released, with the most recent version being GPT-5.
 
@@ -19,3 +17,16 @@ GPT has been updated several times since it was first released, with the most re
 ### [2. Introduction to Networking](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/2.%20Introduction%20to%20Networking.md)
 ### [3. Introduction to Linux](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/3.%20Introduction%20to%20Linux.md)
 ### [4. Introduction to Python](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/4.%20Introduction%20to%20Python.md)
+
+## Bibliography
+
+- [TCM Security](https://tcm-sec.com/)
+- [Parrot Security](https://parrotsec.org/)
+- [Offensive Security](https://www.offensive-security.com/)
+- [NetWorkChuck](https://networkchuck.com/)
+- [David Bombal](https://davidbombal.com/)
+- [S4vitar](https://www.youtube.com/s4vitar)
+- [Cloudflare](https://www.cloudflare.com/learning/)
+- [Wikipedia](https://www.wikipedia.org/)
+- [Udemy](https://www.udemy.com/)
+- [Platzi](https://platzi.com/)
