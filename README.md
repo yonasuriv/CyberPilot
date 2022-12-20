@@ -55,4 +55,6 @@ Currently in Development.
 - [Cisco](https://www.cisco.com/)
 - [Cloudflare](https://www.cloudflare.com/learning/)
 
+And a huge thanks to [WithSecure](https://www.withsecure.com/dk-en) (formerly [F-Secure](https://en.wikipedia.org/wiki/F-Secure)) that was my main motivation behind this project.
+
 with ❤️ from [yonasuriv](https://www.yonasuriv.com)
