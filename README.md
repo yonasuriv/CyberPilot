@@ -44,14 +44,11 @@ Currently in Development.
 - [OWASP](https://owasp.org/)
 
 #### Academies
-##### Computer Science & Programming
+- [Hack The Box](https://academy.hackthebox.com/)
+- [TCM Security](https://academy.tcm-sec.com/)
 - [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 - [Udemy](https://www.udemy.com/)
 - [Platzi](https://platzi.com/)
-
-##### Hacking
-- [Hack The Box Academy](https://academy.hackthebox.com/)
-- [TCM Security Academy](https://academy.tcm-sec.com/)
 
 #### Other Worthy Mentions
 - [Wikipedia](https://www.wikipedia.org/)
