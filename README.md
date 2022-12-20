@@ -28,14 +28,29 @@ GPT has been updated several times since it was first released, with the most re
 
 ## Resources
 
+#### Artificial Intelligence Behind
 - [OpenAI](https://openai.com/)
-- [TCM Security](https://tcm-sec.com/)
-- [Parrot Security](https://parrotsec.org/)
-- [Offensive Security](https://www.offensive-security.com/)
+
+#### Streamers
 - [NetWorkChuck](https://networkchuck.com/)
 - [David Bombal](https://davidbombal.com/)
 - [S4vitar](https://www.youtube.com/s4vitar)
+
+#### Documentation
+- [Parrot Security](https://parrotsec.org/)
+- [Offensive Security](https://www.offensive-security.com/)
+- [OWASP](https://owasp.org/)
+
+#### Academies
+##### Computer Science & Programming
+- [FreeCodeCamp](https://www.freecodecamp.org/learn/)
 - [Udemy](https://www.udemy.com/)
 - [Platzi](https://platzi.com/)
+
+##### Hacking
+- [Hack The Box Academy](https://academy.hackthebox.com/)
+- [TCM Security Academy](https://academy.tcm-sec.com/)
+
+#### Other Worthy Mentions
 - [Cloudflare](https://www.cloudflare.com/learning/)
 - [Wikipedia](https://www.wikipedia.org/)
