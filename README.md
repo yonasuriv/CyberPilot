@@ -56,5 +56,3 @@ Currently in Development.
 - [Cloudflare](https://www.cloudflare.com/learning/)
 
 with ❤️ from [yonasuriv](https://www.yonasuriv.com)
-
-> Work in the Dark to serve the Light.
