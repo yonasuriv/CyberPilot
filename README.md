@@ -1,9 +1,10 @@
 # From Zero to God 
-### Full Ethical Hacking Course written by AI
+### Full Ethical Hacking Course 
+### Written by an AI
 
 ![Screenshot 2022-12-20 152007-modified](https://user-images.githubusercontent.com/59540565/208688779-99e16e50-d604-42fa-a50b-7f675c58f8c3.png)
 
-### **This is the first course written using GPT.**
+#### **This is the first course written using GPT.**
 
 GPT, or Generative Pre-trained Transformer, is a type of large, deep learning language model developed by OpenAI. It is trained to predict the next word in a sequence of words, given the context of the previous words.
 
