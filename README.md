@@ -21,8 +21,9 @@ GPT has been updated several times since it was first released, with the most re
 ## Contribution
 
 ### Suggest Changes 
-	- Add/Modify/Remove Information
-	- Grammatical or Punctuation errors
+- Add/Modify/Remove Information
+- Grammatical or Punctuation errors
+
 ### **Star** & **Fork** the project
 
 ## Resources
