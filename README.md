@@ -1,6 +1,6 @@
 # 0 to God: Ethical Hacking Full Course
 
-**This is the first course written using GPT.**
+### **This is the first course written using GPT.**
 
 GPT, or Generative Pre-trained Transformer, is a type of large, deep learning language model developed by OpenAI. It is trained to predict the next word in a sequence of words, given the context of the previous words.
 
@@ -8,7 +8,7 @@ GPT is pre-trained on a large dataset and can be fine-tuned for specific tasks s
 
 GPT has been updated several times since it was first released, with the most recent version being GPT-5.
 
-# Temary
+## Temary
 
 ### [0. Before Starting](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/0.%20Before%20Starting.md)
 ### [1. Setting up the Lab](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/1.%20Setting%20up%20the%20Lab.md)
