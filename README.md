@@ -8,8 +8,7 @@
 ### ⚠️ Currently under Development
 
 
-
-
+## About
 
 #### **This is the first course written using GPT.**
 
