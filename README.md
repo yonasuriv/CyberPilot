@@ -10,7 +10,7 @@ GPT, or Generative Pre-trained Transformer, is a type of large, deep learning la
 
 GPT has been updated several times since it was first released, with the most recent version being GPT-5.
 
-
+### ⚠️ The following course is Currently under Development ⚠️
 
 ## Table of Contents
 
@@ -19,8 +19,6 @@ GPT has been updated several times since it was first released, with the most re
 ### [2. Introduction to Networking](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/2.%20Introduction%20to%20Networking.md)
 ### [3. Introduction to Linux](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/3.%20Introduction%20to%20Linux.md)
 ### [4. Introduction to Python](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/4.%20Introduction%20to%20Python.md)
-
-### The following course is Currently under Development.
 
 ## Contribution
 

@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6.2 Semi-Passive Information Gathering.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6.2 Semi-Passive Information Gathering.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6.2 Semi-Passive Information Gathering.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6.2 Semi-Passive Information Gathering.md"
+                "file": "README.md"
               }
             }
           },
@@ -263,6 +263,8 @@
   },
   "active": "9826d26f31325272",
   "lastOpenFiles": [
+    "18. Career Advice.md",
+    "6.2 Semi-Passive Information Gathering.md",
     "6.1 Passive Information Gathering.md",
     "13.3 Exploitation and Hacking - Networks.md",
     "13.2.1 Web Application Enumeration.md",
@@ -270,8 +272,6 @@
     "13.1 Exploitation and Hacking - Hosts.md",
     "13. Vulnerability Analysis.md",
     "11.5 Additional Attacks.md",
-    "11.3 Post-Compromise Enumeration.md",
-    "11.4 Post-Compromise Attacks.md",
-    "11.2 Initial Attack Vectors.md"
+    "11.3 Post-Compromise Enumeration.md"
   ]
 }
