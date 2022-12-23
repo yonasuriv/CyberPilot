@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13.2 Web.md",
+                "file": "13.2 Exploitation and Hacking - Web.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13.1 Hosts.md",
+                "file": "13.1 Exploitation and Hacking - Hosts.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "13.3 Exploitation and Hacking - Networks.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "13.3 Exploitation and Hacking - Networks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "13.3 Exploitation and Hacking - Networks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "13.3 Exploitation and Hacking - Networks.md"
               }
             }
           },
@@ -263,15 +263,15 @@
   },
   "active": "9826d26f31325272",
   "lastOpenFiles": [
-    "0. Before Starting.md",
     "13.2.1 Web Application Enumeration.md",
-    "13.3 Networks.md",
-    "13.1 Hosts.md",
-    "13.2 Web.md",
-    "13. Vulnerability Analysis - Exploitation and Hacking.md",
-    "17. Machine Learning Applied to Hacking.md",
-    "18. Career Advice.md",
-    "6.3 Active Information Gathering.md",
-    "6.2 Semi Passive Information Gathering.md"
+    "13.2 Exploitation and Hacking - Web.md",
+    "13.1 Exploitation and Hacking - Hosts.md",
+    "13. Vulnerability Analysis.md",
+    "11.5 Additional Attacks.md",
+    "11.3 Post-Compromise Enumeration.md",
+    "11.4 Post-Compromise Attacks.md",
+    "11.2 Initial Attack Vectors.md",
+    "11.1 Lab Build.md",
+    "README.md"
   ]
 }
