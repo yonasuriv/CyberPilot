@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "8a8de8d3341dbe69",
+    "type": "split",
+    "children": [
+      {
+        "id": "055e0f7c99e7139e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42eaff30cecd324c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Information Gathering (Reconnaissance).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6cca81aac28950f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.1 Passive Information Gathering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b92b9db8af38134",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6.2 Semi Passive Information Gathering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35f8da1357eefd18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "18. Career Advice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b74ba554d644d3c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. Machine Learning Applied to Hacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2c2471eec74108c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13.2 Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "723a8282370e05b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13.2.1 Web Application Enumeration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b043a4cb30858011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13.1 Hosts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9826d26f31325272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "babd7324b38f0c1e",
+    "type": "split",
+    "children": [
+      {
+        "id": "82d3d426b7e7d5c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90a87b773c42f810",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a7c10a7a4064282",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#carbohidratos",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "591569f8b67926cd",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "007a9332b9f872ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "312d22bc2c4bd94b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3007787208631ca3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70fe46fe542702b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d69a2db5614bfea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "575bfa83b8239e57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "ca6d573cfafcb34e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3471fdba04937c91",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "9826d26f31325272",
+  "lastOpenFiles": [
+    "0. Before Starting.md",
+    "13.2.1 Web Application Enumeration.md",
+    "13.3 Networks.md",
+    "13.1 Hosts.md",
+    "13.2 Web.md",
+    "13. Vulnerability Analysis - Exploitation and Hacking.md",
+    "17. Machine Learning Applied to Hacking.md",
+    "18. Career Advice.md",
+    "6.3 Active Information Gathering.md",
+    "6.2 Semi Passive Information Gathering.md"
+  ]
+}
