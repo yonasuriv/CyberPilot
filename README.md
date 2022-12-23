@@ -9,13 +9,15 @@
 
 
 
-## Table of Contents
+
 
 #### **This is the first course written using GPT.**
 
 GPT, or Generative Pre-trained Transformer, is a type of large, deep learning language model developed by OpenAI. It is trained to predict the next word in a sequence of words, given the context of the previous words. It is known for its ability to generate human-like text, making it useful for a wide range of natural language processing tasks.
 
 GPT has been updated several times since it was first released, with the most recent version being GPT-5.
+
+## Table of Contents
 
 ### [0. Before Starting](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/0.%20Before%20Starting.md)
 ### [1. Setting up the Lab](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/1.%20Setting%20up%20the%20Lab.md)
