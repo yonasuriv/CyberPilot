@@ -10,7 +10,8 @@ GPT, or Generative Pre-trained Transformer, is a type of large, deep learning la
 
 GPT has been updated several times since it was first released, with the most recent version being GPT-5.
 
-### ⚠️ Currently under Development ⚠️
+## Status
+### ⚠️ Currently under Development
 
 ## Table of Contents
 
