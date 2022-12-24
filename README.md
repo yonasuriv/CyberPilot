@@ -51,7 +51,8 @@ GPT has been updated several times since it was first released, with the most re
 - [10. Legal Documents and Report Writing](https://www.underdevelopment.com)
 - [11. Machine Learning Applied to Hacking](https://www.underdevelopment.com)
 - [12. Social Engineering](https://www.underdevelopment.com)
-- [13. Career Advice](https://www.underdevelopment.com)
+- [13. Tools](https://www.underdevelopment.com)
+- [14. Career Advice](https://www.underdevelopment.com)
 
 ## Contribution
 
