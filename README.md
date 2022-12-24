@@ -18,11 +18,11 @@ GPT has been updated several times since it was first released, with the most re
 
 ## Table of Contents
 
-###### [0. Before Starting](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/0.%20Before%20Starting.md)
+##### [0. Before Starting](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/0.%20Before%20Starting.md)
 - [0.1 Basic Technical Knowledge]()
 - [0.2 Setting up the Lab](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/1.%20Setting%20up%20the%20Lab.md)
 - [0.3 Training]()
-###### [1. Introduction to Networking](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/2.%20Introduction%20to%20Networking.md)
+##### [1. Introduction to Networking](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/2.%20Introduction%20to%20Networking.md)
 ##### [2. Introduction to Linux](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/3.%20Introduction%20to%20Linux.md)
 ##### [3. Introduction to Python](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/4.%20Introduction%20to%20Python.md)
 ##### [4. Ethical Hacking Methodology]()
@@ -30,7 +30,7 @@ GPT has been updated several times since it was first released, with the most re
 - [5.1 Passive Information Gathering]()
 - [5.2 Semi-Passive Information Gathering]()
 - [5.3 Active Information Gathering]()
-##### [6.  Scanning and Enumeration]()
+##### [6. Scanning and Enumeration]()
 - [6.1 Vulnerability Scanning with Nessus]()
 ##### [7. Introduction to Exploit Development]()
 - [7.1. Exploitation Basics]()
