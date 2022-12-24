@@ -6,11 +6,10 @@
 
 ## Status
 
-### ⚠️ Currently under Development
-
+⚠️ **Currently under Development**
 ## About
 
-### **This is the first course written using GPT.**
+**This is the first course written using GPT.**
 
 GPT, or Generative Pre-trained Transformer, is a type of large, deep learning language model developed by OpenAI. It is trained to predict the next word in a sequence of words, given the context of the previous words. It is known for its ability to generate human-like text, making it useful for a wide range of natural language processing tasks.
 
@@ -56,32 +55,32 @@ GPT has been updated several times since it was first released, with the most re
 
 ## Contribution
 
-### ✍️ Suggest Changes
+✍️ **Suggest Changes**
 
 - Add/Modify/Remove Information
 - Grammatical or Punctuation errors
 
-### ⭐ **Star** & **Fork** the project
+⭐ **<u>Star</u> & <u>Fork</u> this project**
 
 ## Resources
 
-### Artificial Intelligence Behind
+**Artificial Intelligence Behind**
 
 - [OpenAI](https://openai.com/)
 
-### Streamers
+**Streamers**
 
 - [NetWorkChuck](https://networkchuck.com/)
 - [David Bombal](https://davidbombal.com/)
 - [S4vitar](https://www.youtube.com/s4vitar)
 
-### Documentation
+**Documentation**
 
 - [Parrot Security](https://parrotsec.org/)
 - [Offensive Security](https://www.offensive-security.com/)
 - [OWASP](https://owasp.org/)
 
-### Academies
+**Academies**
 
 - [Hack The Box](https://academy.hackthebox.com/)
 - [TCM Security](https://academy.tcm-sec.com/)
@@ -89,7 +88,7 @@ GPT has been updated several times since it was first released, with the most re
 - [Udemy](https://www.udemy.com/)
 - [Platzi](https://platzi.com/)
 
-### Other Worthy Mentions
+**Other Worthy Mentions**
 
 - [Wikipedia](https://www.wikipedia.org/)
 - [Cisco](https://www.cisco.com/)
