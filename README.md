@@ -18,11 +18,11 @@ GPT has been updated several times since it was first released, with the most re
 
 ## Table of Contents
 
-##### [0. Before Starting](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/0.%20Before%20Starting.md)
+###### [0. Before Starting](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/0.%20Before%20Starting.md)
 - [0.1 Basic Technical Knowledge]()
 - [0.2 Setting up the Lab](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/1.%20Setting%20up%20the%20Lab.md)
 - [0.3 Training]()
-##### [1. Introduction to Networking](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/2.%20Introduction%20to%20Networking.md)
+###### [1. Introduction to Networking](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/2.%20Introduction%20to%20Networking.md)
 ##### [2. Introduction to Linux](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/3.%20Introduction%20to%20Linux.md)
 ##### [3. Introduction to Python](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/4.%20Introduction%20to%20Python.md)
 ##### [4. Ethical Hacking Methodology]()
@@ -52,10 +52,6 @@ GPT has been updated several times since it was first released, with the most re
 ##### [11. Machine Learning Applied to Hacking]()
 ##### [12. Social Engineering]()
 ##### [13. Career Advice]()
-
-1. [wawa]()
-	1.1 [wawaee]()
-1. [weee](ee)
 
 ## Contribution
 
