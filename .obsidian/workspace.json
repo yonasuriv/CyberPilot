@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Introduction to Networking.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Introduction to Networking.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Introduction to Networking.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Introduction to Networking.md"
+                "file": "README.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "9826d26f31325272",
   "lastOpenFiles": [
+    "2. Introduction to Networking.md",
     "README.md",
     "().md",
     "18. Social Engineering.md",
@@ -174,7 +175,6 @@
     "13.2 Exploitation and Hacking - Networks.md",
     "13.3.1 Web Application Enumeration.md",
     "6.1 Passive Information Gathering.md",
-    "6. Reconnaissance (Information Gathering).md",
-    "6.2 Semi-Passive Information Gathering.md"
+    "6. Reconnaissance (Information Gathering).md"
   ]
 }
