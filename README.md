@@ -51,7 +51,7 @@ GPT has been updated several times since it was first released, with the most re
 [10. Legal Documents and Report Writing]
 [11. Machine Learning Applied to Hacking]
 [12. Social Engineering]
-[13. Career Advice]
+[13. Career Advice]()
 
 ## Contribution
 
