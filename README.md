@@ -19,38 +19,38 @@ GPT has been updated several times since it was first released, with the most re
 ## Table of Contents
 
 [0. Before Starting](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/0.%20Before%20Starting.md)
-- [0.1 Basic Technical Knowledge]
+- [0.1 Basic Technical Knowledge]()
 - [0.2 Setting up the Lab](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/1.%20Setting%20up%20the%20Lab.md)
-- [0.3 Training]
+- [0.3 Training]()
 [1. Introduction to Networking](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/2.%20Introduction%20to%20Networking.md)
 [2. Introduction to Linux](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/3.%20Introduction%20to%20Linux.md)
 [3. Introduction to Python](https://github.com/yonasuriv/Ethical-Hacking-Full-Course/blob/main/4.%20Introduction%20to%20Python.md)
-[4. Ethical Hacking Methodology]
-[5. Reconnaissance]
-- [5.1 Passive Information Gathering]
-- [5.2 Semi-Passive Information Gathering]
-- [5.3 Active Information Gathering]
-[6.  Scanning and Enumeration]
-- [6.1 Vulnerability Scanning with Nessus]
-[7. Introduction to Exploit Development]
-- [7.1. Exploitation Basics]
-- [7.2. Active Directory]
-- [7.2.1 Lab Build]
-- [7.2.2 Initial Attack Vectors]
-- [7.2.3 Post-Compromise Enumeration]
-- [7.2.4 Post-Compromise Attacks]
-- [7.2.5 Additional Attacks]
-- [7.3. Post Exploitation]
-[8. Vulnerability Analysis]
-- [8.1 Exploitation and Hacking - Hosts]
-- [8.2 Exploitation and Hacking - Networks]
-- [8.3 Exploitation and Hacking - Web]
-- [8.3.1 Web Application Enumeration]
-- [8.3.2 Top 10 Web Application Vulnerabilities (OWASP)]
-[9. Wireless Penetration Testing]
-[10. Legal Documents and Report Writing]
-[11. Machine Learning Applied to Hacking]
-[12. Social Engineering]
+[4. Ethical Hacking Methodology]()
+[5. Reconnaissance]()
+- [5.1 Passive Information Gathering]()
+- [5.2 Semi-Passive Information Gathering]()
+- [5.3 Active Information Gathering]()
+[6.  Scanning and Enumeration]()
+- [6.1 Vulnerability Scanning with Nessus]()
+[7. Introduction to Exploit Development]()
+- [7.1. Exploitation Basics]()
+- [7.2. Active Directory]()
+- [7.2.1 Lab Build]()
+- [7.2.2 Initial Attack Vectors]()
+- [7.2.3 Post-Compromise Enumeration]()
+- [7.2.4 Post-Compromise Attacks]()
+- [7.2.5 Additional Attacks]()
+- [7.3. Post Exploitation]()
+[8. Vulnerability Analysis]()
+- [8.1 Exploitation and Hacking - Hosts]()
+- [8.2 Exploitation and Hacking - Networks]()
+- [8.3 Exploitation and Hacking - Web]()
+- [8.3.1 Web Application Enumeration]()
+- [8.3.2 Top 10 Web Application Vulnerabilities (OWASP)]()
+[9. Wireless Penetration Testing]()
+[10. Legal Documents and Report Writing]()
+[11. Machine Learning Applied to Hacking]()
+[12. Social Engineering]()
 [13. Career Advice]()
 
 ## Contribution
