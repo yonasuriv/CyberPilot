@@ -8,103 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42eaff30cecd324c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6. Information Gathering (Reconnaissance).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6cca81aac28950f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6.1 Passive Information Gathering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7b92b9db8af38134",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6.2 Semi-Passive Information Gathering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "35f8da1357eefd18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "18. Career Advice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b74ba554d644d3c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "17. Machine Learning Applied to Hacking.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2c2471eec74108c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13.2 Exploitation and Hacking - Web.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "723a8282370e05b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13.2.1 Web Application Enumeration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b043a4cb30858011",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "13.1 Exploitation and Hacking - Hosts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9826d26f31325272",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfe5402241260c62",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -116,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 8,
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -261,17 +177,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9826d26f31325272",
+  "active": "cfe5402241260c62",
   "lastOpenFiles": [
-    "18. Career Advice.md",
-    "6.2 Semi-Passive Information Gathering.md",
+    "18. Social Engineering.md",
+    "19. Career Advice.md",
+    "13.3 Exploitation and Hacking - Web.md",
+    "13.2 Exploitation and Hacking - Networks.md",
+    "13.3.1 Web Application Enumeration.md",
+    "README.md",
     "6.1 Passive Information Gathering.md",
-    "13.3 Exploitation and Hacking - Networks.md",
-    "13.2.1 Web Application Enumeration.md",
-    "13.2 Exploitation and Hacking - Web.md",
-    "13.1 Exploitation and Hacking - Hosts.md",
-    "13. Vulnerability Analysis.md",
-    "11.5 Additional Attacks.md",
-    "11.3 Post-Compromise Enumeration.md"
+    "6. Reconnaissance (Information Gathering).md",
+    "6.2 Semi-Passive Information Gathering.md",
+    "13.1 Exploitation and Hacking - Hosts.md"
   ]
 }
