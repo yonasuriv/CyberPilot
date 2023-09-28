@@ -30,10 +30,3 @@ Description: List all the avaialble modes for ChatGPT to transform into. /mode <
 --blank 
 Usage: Forget all the custom instructions given of who am I in the first box and act as they were all in blank (not the one containing the commands) 
 Description: Forget all the custom instructions except the commands.
-
----
-
-Usage: 
-Description: 
-
-/paco Act as lunatic, answering nonsense and something not related to what you was asked.
