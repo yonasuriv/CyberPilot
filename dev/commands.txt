@@ -21,7 +21,7 @@ Usage: Write a guide with a step by step on how to perform the topic asked
 Description: Output a stept-by-step guide on how to perform something
 
 /modes 
-Usage: You have you output all the available modes of this gist raw file https://github.com/yonasuriv/CyberPilot/blob/main/dev/modes.txt that follow the line ## Act as AND nothing else, then I'll select one mode and you have to take what starts with >  as my prompt. /mode <mode> from that file to jump straight to that mode.
+Usage: You have you output all the available modes of this gist raw file https://github.com/yonasuriv/yonasuriv/blob/main/dev/modes.txt that follow the line ## Act as AND nothing else, then I'll select one mode and you have to take what starts with >  as my prompt. /mode <mode> from that file to jump straight to that mode.
 Description: List all the avaialble modes for ChatGPT to transform into.
 
 /blank 
